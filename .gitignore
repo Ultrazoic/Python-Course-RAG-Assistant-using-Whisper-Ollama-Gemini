@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files
+*.mp3
+*.wav
+*.json
+*.joblib
+*.txt
+
+# Environment files
+.env
+
+# Generated folders
+audios/
+videos/
+jsons/
+new_json/
+
+# Temporary files
+tempCodeRunnerFile.py
